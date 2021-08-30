@@ -18,6 +18,7 @@
 		4C44417626DC7C6C00035B7C /* AppetizerListCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C44417526DC7C6C00035B7C /* AppetizerListCell.swift */; };
 		4C44417826DC7DEC00035B7C /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C44417726DC7DEC00035B7C /* NetworkManager.swift */; };
 		4C44417A26DC7F3000035B7C /* APError.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C44417926DC7F3000035B7C /* APError.swift */; };
+		4C44417C26DC863300035B7C /* AppetizerListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C44417B26DC863300035B7C /* AppetizerListViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		4C44417526DC7C6C00035B7C /* AppetizerListCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppetizerListCell.swift; sourceTree = "<group>"; };
 		4C44417726DC7DEC00035B7C /* NetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
 		4C44417926DC7F3000035B7C /* APError.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APError.swift; sourceTree = "<group>"; };
+		4C44417B26DC863300035B7C /* AppetizerListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppetizerListViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +80,7 @@
 				4C44417526DC7C6C00035B7C /* AppetizerListCell.swift */,
 				4C44417726DC7DEC00035B7C /* NetworkManager.swift */,
 				4C44417926DC7F3000035B7C /* APError.swift */,
+				4C44417B26DC863300035B7C /* AppetizerListViewModel.swift */,
 			);
 			path = "SwiftUI Appetizers";
 			sourceTree = "<group>";
@@ -162,6 +165,7 @@
 				4C44417426DC762B00035B7C /* Appetizer.swift in Sources */,
 				4C44417A26DC7F3000035B7C /* APError.swift in Sources */,
 				4C44417626DC7C6C00035B7C /* AppetizerListCell.swift in Sources */,
+				4C44417C26DC863300035B7C /* AppetizerListViewModel.swift in Sources */,
 				4C44417026DC463100035B7C /* AccountView.swift in Sources */,
 				4C44416126DC428B00035B7C /* AppetizerTabView.swift in Sources */,
 				4C44417826DC7DEC00035B7C /* NetworkManager.swift in Sources */,
