@@ -114,17 +114,9 @@
 			children = (
 				4C44416D26DC462700035B7C /* AppetizerListView.swift */,
 				4C44417B26DC863300035B7C /* AppetizerListViewModel.swift */,
-				4C47E11826F6F32600CABBFC /* AccountView */,
 				4C47E12426F8253900CABBFC /* AppetizerDetailView.swift */,
 			);
 			path = AppetizerListView;
-			sourceTree = "<group>";
-		};
-		4C47E11826F6F32600CABBFC /* AccountView */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = AccountView;
 			sourceTree = "<group>";
 		};
 		4C47E11926F6F32E00CABBFC /* OrderView */ = {
