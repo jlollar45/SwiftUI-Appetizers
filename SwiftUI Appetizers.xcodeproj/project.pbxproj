@@ -23,6 +23,7 @@
 		4C47E11126F6E57B00CABBFC /* LoadingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C47E11026F6E57B00CABBFC /* LoadingView.swift */; };
 		4C47E11326F6E65400CABBFC /* Color+Ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C47E11226F6E65400CABBFC /* Color+Ext.swift */; };
 		4C47E11526F6EFF100CABBFC /* RemoteImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C47E11426F6EFF100CABBFC /* RemoteImage.swift */; };
+		4C47E12526F8253900CABBFC /* AppetizerDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C47E12426F8253900CABBFC /* AppetizerDetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -44,6 +45,7 @@
 		4C47E11026F6E57B00CABBFC /* LoadingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadingView.swift; sourceTree = "<group>"; };
 		4C47E11226F6E65400CABBFC /* Color+Ext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Color+Ext.swift"; sourceTree = "<group>"; };
 		4C47E11426F6EFF100CABBFC /* RemoteImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoteImage.swift; sourceTree = "<group>"; };
+		4C47E12426F8253900CABBFC /* AppetizerDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppetizerDetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,6 +115,7 @@
 				4C44416D26DC462700035B7C /* AppetizerListView.swift */,
 				4C44417B26DC863300035B7C /* AppetizerListViewModel.swift */,
 				4C47E11826F6F32600CABBFC /* AccountView */,
+				4C47E12426F8253900CABBFC /* AppetizerDetailView.swift */,
 			);
 			path = AppetizerListView;
 			sourceTree = "<group>";
@@ -296,6 +299,7 @@
 				4C44416126DC428B00035B7C /* AppetizerTabView.swift in Sources */,
 				4C44417826DC7DEC00035B7C /* NetworkManager.swift in Sources */,
 				4C47E11526F6EFF100CABBFC /* RemoteImage.swift in Sources */,
+				4C47E12526F8253900CABBFC /* AppetizerDetailView.swift in Sources */,
 				4C44415F26DC428B00035B7C /* SwiftUI_AppetizersApp.swift in Sources */,
 				4C47E10F26F6E07200CABBFC /* Alert.swift in Sources */,
 				4C44416E26DC462700035B7C /* AppetizerListView.swift in Sources */,
