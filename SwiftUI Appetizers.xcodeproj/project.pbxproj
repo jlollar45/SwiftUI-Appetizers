@@ -31,6 +31,7 @@
 		4CA4882A26FD466D00257175 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CA4882926FD466D00257175 /* User.swift */; };
 		4CA4882D2702BEAD00257175 /* Empty State.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CA4882C2702BEAC00257175 /* Empty State.swift */; };
 		4CA4882F2702C7A000257175 /* Order.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CA4882E2702C7A000257175 /* Order.swift */; };
+		4CA488352702DAB000257175 /* Date+Ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CA488342702DAB000257175 /* Date+Ext.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -60,6 +61,7 @@
 		4CA4882926FD466D00257175 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
 		4CA4882C2702BEAC00257175 /* Empty State.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Empty State.swift"; sourceTree = "<group>"; };
 		4CA4882E2702C7A000257175 /* Order.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Order.swift; sourceTree = "<group>"; };
+		4CA488342702DAB000257175 /* Date+Ext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Date+Ext.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -165,6 +167,7 @@
 			children = (
 				4C47E11226F6E65400CABBFC /* Color+Ext.swift */,
 				4CA4882726FD40C500257175 /* String+Ext.swift */,
+				4CA488342702DAB000257175 /* Date+Ext.swift */,
 			);
 			path = Extensions;
 			sourceTree = "<group>";
@@ -322,6 +325,7 @@
 				4C44417A26DC7F3000035B7C /* APError.swift in Sources */,
 				4C47E12A26F8308500CABBFC /* XDismissButton.swift in Sources */,
 				4C44417626DC7C6C00035B7C /* AppetizerListCell.swift in Sources */,
+				4CA488352702DAB000257175 /* Date+Ext.swift in Sources */,
 				4CA4882F2702C7A000257175 /* Order.swift in Sources */,
 				4CA4882626FD3F3400257175 /* AccountViewModel.swift in Sources */,
 				4C44417C26DC863300035B7C /* AppetizerListViewModel.swift in Sources */,
