@@ -29,6 +29,7 @@
 		4CA4882626FD3F3400257175 /* AccountViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CA4882526FD3F3400257175 /* AccountViewModel.swift */; };
 		4CA4882826FD40C500257175 /* String+Ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CA4882726FD40C500257175 /* String+Ext.swift */; };
 		4CA4882A26FD466D00257175 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CA4882926FD466D00257175 /* User.swift */; };
+		4CA4882D2702BEAD00257175 /* Empty State.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CA4882C2702BEAC00257175 /* Empty State.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -56,6 +57,7 @@
 		4CA4882526FD3F3400257175 /* AccountViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccountViewModel.swift; sourceTree = "<group>"; };
 		4CA4882726FD40C500257175 /* String+Ext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "String+Ext.swift"; sourceTree = "<group>"; };
 		4CA4882926FD466D00257175 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		4CA4882C2702BEAC00257175 /* Empty State.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Empty State.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -186,6 +188,7 @@
 		4C47E11F26F6F3DD00CABBFC /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				4CA4882B2702BE9800257175 /* Empty States */,
 				4C47E12626F82FC700CABBFC /* Buttons */,
 				4C47E12226F6F3F100CABBFC /* Image */,
 				4C47E12126F6F3EB00CABBFC /* Cells */,
@@ -233,6 +236,14 @@
 				4C47E12926F8308500CABBFC /* XDismissButton.swift */,
 			);
 			path = Buttons;
+			sourceTree = "<group>";
+		};
+		4CA4882B2702BE9800257175 /* Empty States */ = {
+			isa = PBXGroup;
+			children = (
+				4CA4882C2702BEAC00257175 /* Empty State.swift */,
+			);
+			path = "Empty States";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -314,6 +325,7 @@
 				4C44417026DC463100035B7C /* AccountView.swift in Sources */,
 				4CA4882A26FD466D00257175 /* User.swift in Sources */,
 				4C47E12826F82FD900CABBFC /* APButton.swift in Sources */,
+				4CA4882D2702BEAD00257175 /* Empty State.swift in Sources */,
 				4C47E11126F6E57B00CABBFC /* LoadingView.swift in Sources */,
 				4C44416126DC428B00035B7C /* AppetizerTabView.swift in Sources */,
 				4C44417826DC7DEC00035B7C /* NetworkManager.swift in Sources */,
